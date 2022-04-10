@@ -1,0 +1,15 @@
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\bin\Debug\net6.0\employeecomputation.exe
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\bin\Debug\net6.0\employeecomputation.deps.json
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\bin\Debug\net6.0\employeecomputation.runtimeconfig.json
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\bin\Debug\net6.0\employeecomputation.dll
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\bin\Debug\net6.0\employeecomputation.pdb
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\obj\Debug\net6.0\employeecomputation.csproj.AssemblyReference.cache
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\obj\Debug\net6.0\employeecomputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\obj\Debug\net6.0\employeecomputation.AssemblyInfoInputs.cache
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\obj\Debug\net6.0\employeecomputation.AssemblyInfo.cs
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\obj\Debug\net6.0\employeecomputation.csproj.CoreCompileInputs.cache
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\obj\Debug\net6.0\employeecomputation.dll
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\obj\Debug\net6.0\refint\employeecomputation.dll
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\obj\Debug\net6.0\employeecomputation.pdb
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\obj\Debug\net6.0\employeecomputation.genruntimeconfig.cache
+C:\Users\ankush\source\repos\practiceempcompo\demo\employeecomputation\employeecomputation\obj\Debug\net6.0\ref\employeecomputation.dll
